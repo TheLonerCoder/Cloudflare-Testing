@@ -10,7 +10,8 @@ function App() {
     <>
       <div>
         <h1>This is a test!</h1>
-        <b><a href="www.youtube.com">YOUTUBE</a></b>
+        <b><a href="https://www.youtube.com">YOUTUBE</a></b>
+        <p>Coming Soon...</p>
       </div>
     </>
   )
