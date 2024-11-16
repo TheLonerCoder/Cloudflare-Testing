@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>This is a test!</h1>
-        <b><a href="https://www.youtube.com">YOUTUBE</a></b>
+        <h1>Solo Innov</h1>
+        {/* <b><a href="https://www.youtube.com">YOUTUBE</a></b> */}
         <p>Coming Soon...</p>
       </div>
     </>
